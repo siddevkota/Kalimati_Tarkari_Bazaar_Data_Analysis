@@ -13,3 +13,14 @@ This project focuses on the analysis and prediction of vegetable prices in the K
 - Develop models to predict future vegetable prices.
 - Provide market insights for better decision-making.
 
+
+## Dataset Description
+**Source:** Open Data Nepal / Kalimati Website
+**Variables:** 
+- `Commodity`: Name of the vegetable
+- `Date`: Date of the price record
+- `Unit`: Measurement unit (e.g., Kg, Per piece)
+- `Minimum`: Minimum price
+- `Maximum`: Maximum price
+- `Average`: Average price
+- `Quantity`: Quantity available
